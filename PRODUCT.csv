@@ -1,0 +1,253 @@
+PROD_SKU,PROD_DESCRIPT,PROD_TYPE,PROD_CATEGORY,PROD_PRICE,PROD_QOH,PROD_MIN,PROD_BASE,BRAND_ID
+1010-MIW,Dry Fall & Latex & Semi-Gloss (MPI Gloss Level 5),Interior,Top Coat,21.99,110,15,Water,28
+1021-MTI,Elastomeric & Exterior & Industrial Grade & Water Based,Exterior,Top Coat,62.99,22,25,Water,35
+1045-DUY,Traffic Marking Paint & Alkyd,Exterior,Top Coat,6.59,10,40,Solvent,35
+1067-KBB,Primer & Galvanized Metal & Cementitious,Interior,Primer,14.89,21,10,Solvent,30
+1074-VVJ,Light Industrial Coating & Exterior & Water Based ('eggshell-like' - MPI Gloss Level 3) ,Exterior,Top Coat,23.29,43,25,Water,25
+1078-QXL,Varnish & Interior & Semi-Gloss ,Interior,Top Coat,14.59,94,40,Solvent,23
+1099-WFZ,Primer & Epoxy & Anti-Corrosive & for Metal,Interior,Primer,14.99,57,40,Solvent,35
+1143-RGX,Shellac,Interior,Primer,11.99,116,15,Solvent,27
+1150-MMR,Primer & Alkyd & Quick Dry & for Metal,Interior,Primer,11.99,44,10,Solvent,35
+1153-AWY,Polyurethane & Moisture Cured & Pigmented & Intermediate Coat,Interior,Top Coat,14.99,116,20,Solvent,28
+1198-STR,Latex & Exterior & Gloss (MPI Gloss Level 6),Exterior,Top Coat,23.59,45,15,Water,28
+1200-KBU,Stain & Semi-Transparent & for Interior Wood,Interior,Top Coat,20.99,91,20,Solvent,25
+1203-AIS,Fire Retardant Coating & Latex & Interior & Flat (ULC Approved),Interior,Top Coat,35.99,49,25,Water,35
+1336-FVM,Alkyd & Sanding Sealer & Clear,Interior,Sealer,23.29,54,25,Solvent,33
+1403-TUY,Sealer & Water Based & for Concrete Floors,Interior,Sealer,42.99,56,5,Water,29
+1433-MMY,Heat Resistant Coating & (Up to 205 Degrees C/402 Degrees F) & MPI Gloss Level 5-6 ,Exterior,Top Coat,23.99,129,10,Solvent,27
+1485-NNI,Primer Sealer & for Multicolor Systems,Interior,Primer,18.99,76,10,Water,30
+1504-LVK,Floor Paint & Latex & Low Gloss ,Interior,Top Coat,21.99,63,25,Water,33
+1580-VCE,Latex & Interior & High Performance Architectural & ('eggshell-like' - MPI Gloss Level 3),Interior,Top Coat,34.49,124,5,Water,29
+1663-CDD,Light Industrial Coating & Exterior & Water Based & Semi-Gloss (MPI Gloss Level 5),Exterior,Top Coat,23.29,125,40,Water,25
+1747-XNI,Paste & Wood Filler,Exterior,Filler,3.99,85,30,Solvent,33
+1838-LZI,Latex & Exterior & High Build,Exterior,Top Coat,12.59,24,10,Water,25
+1854-AFJ,Epoxy Deck Coating (Slip-Resistant),Interior,Top Coat,22.59,98,40,Solvent,30
+1871-GWZ,Latex & Exterior & Low Sheen (MPI Gloss Level 3-4),Exterior,Top Coat,24.99,52,25,Water,28
+1964-OUT,Fire Resistant Top Coat & for Interior Wood,Interior,Top Coat,78.49,120,10,Solvent,30
+2006-ZBH,Latex & Exterior Flat (MPI Gloss Level 1),Exterior,Top Coat,10.99,100,10,Water,35
+2046-RUS,Polyurethane Deck Coating (Slip-Resistant),Exterior,Top Coat,25.99,137,35,Solvent,28
+2068-TSC,Graffiti Protection Top-Coat,Exterior,Top Coat,16.99,145,10,Solvent,30
+2101-WCF,Dry Fall & Latex & ('eggshell-like' - MPI Gloss Level 3),Interior,Top Coat,13.99,60,10,Water,30
+2116-PVN,Latex & Interior & Semi-Gloss (MPI Gloss Level 5) ,Interior,Top Coat,12.99,66,20,Water,25
+2129-BCP,Dry Fall & Alkyd & Flat,Interior,Top Coat,7.99,94,35,Solvent,35
+2134-QFE,Varnish & with UV Inhibitor & Exterior & Semi-Gloss (MPI Gloss Level 5),Exterior,Top Coat,15.89,34,25,Solvent,23
+2143-VQX,Alkyd & Quick Dry & Gloss,Interior,Top Coat,17.99,8,10,Solvent,35
+2200-DAI,Primer Sealer & Low Permeability & Latex & Interior,Interior,Primer,7.59,66,5,Water,31
+2212-MNF,Varnish & Exterior & Water Based & (Gloss) MPI Gloss Level 6,Exterior,Top Coat,13.39,131,40,Water,27
+2217-JOH,Dry Fall & Alkyd & ('eggshell-like' - MPI Gloss Level 3),Interior,Top Coat,13.59,43,5,Solvent,29
+2231-OXK,Primer & Vinyl Wash,Interior,Primer,7.59,68,5,Solvent,35
+2233-GJH,Light Industrial Coating & Exterior & Water Based & Gloss (MPI Gloss Level 6),Exterior,Top Coat,23.29,41,25,Water,33
+2262-NBI,Vinyl & High Build,Interior,Top Coat,17.99,113,5,Solvent,31
+2351-WVS,Latex & Interior & Institutional Low Odor/VOC & ('satin-like' - MPI Gloss Level 4) ,Interior,Top Coat,29.99,89,5,Water,30
+2366-EFV,Varnish & Interior & Polyurethane & Oil Modified & Gloss,Interior,Top Coat,6.59,3,25,Solvent,30
+2379-PCX,Latex & Interior & ('satin-like' - MPI Gloss Level 4),Interior,Top Coat,13.59,77,15,Water,25
+2384-PGY,Epoxy & High Build & Self Priming & Low Gloss,Exterior,Top Coat,29.99,133,35,Solvent,30
+2397-RDX,Light Industrial Coating & Interior & Water Based & Gloss (MPI Gloss Level 6),Interior,Top Coat,15.59,6,10,Water,30
+2407-SUX,Dry Fall & Latex & Flat,Interior,Top Coat,9.89,143,15,Water,23
+2410-SKH,Polyurethane & Two-Component & Pigmented & Gloss (MPI Gloss Level 6),Interior,Top Coat,4.29,26,20,Solvent,27
+2455-ZKN,Primer & Epoxy & Water Based & Anti-Corrosive & for Metal,Exterior,Primer,38.99,86,15,Water,27
+2496-QMW,Latex & Recycled (Remanufactured) & Exterior & Low Sheen (G 3-4),Exterior,Top Coat,38.99,95,35,Water,33
+2553-FSW,Dry Fall & Water Based & for Galvanized Steel & MPI Gloss Level 5,Interior,Top Coat,20.59,70,25,Water,30
+2584-CIJ,Stain & for Exterior Wood Decks,Exterior,Top Coat,12.39,17,10,Solvent,30
+2611-QYG,Primer & Alkali Resistant & Solvent Based,Interior,Primer,31.99,81,5,Solvent,29
+2699-GNS,Top-Coat for Multicolored Coating & Clear,Interior,Top Coat,35.99,59,40,Water,27
+2756-CKP,Alkyd & Interior & ('eggshell-like' - MPI Gloss Level 3) ,Interior,Top Coat,9.99,10,40,Solvent,28
+2766-EYO,Aluminum Paint & High Heat (up to 590 Degrees  C/1100 Degrees  F),Exterior,Top Coat,32.99,20,10,Solvent,33
+2833-LIV,Primer & Stain Blocking,Exterior,Primer,32.99,129,15,Solvent,35
+2857-NDO,Primer & Stain Blocking,Interior,Primer,32.99,87,40,Solvent,28
+2866-RAM,Aluminum Paint & Heat Resistant (Up to 427 Degrees C - 800 Degrees F),Interior,Top Coat,18.99,19,10,Solvent,30
+2870-QZR,Floor Coating & Thin Film & for Aircraft Maintenance Facilities,Interior,Top Coat,32.99,121,15,Solvent,29
+2896-OZJ,Water Repellant & Clear (Not Paintable),Exterior,Top Coat,23.99,70,5,Solvent,23
+2918-THH,Alkyd & Exterior Flat (MPI Gloss Level 1),Exterior,Top Coat,10.99,127,15,Solvent,23
+2932-PBS,Varnish & Interior & Flat ,Interior,Top Coat,13.59,61,15,Solvent,35
+2990-BNH,Polyurethane & Moisture Cured & Pigmented & Semi-Gloss (MPI Gloss Level 5),Exterior,Top Coat,16.99,139,20,Solvent,31
+2996-VMO,Multicolor Coating,Interior,Top Coat,23.59,32,25,Solvent,27
+3035-NHD,Primer & Galvanized & Non-Cementitious,Exterior,Primer,15.69,37,30,Solvent,29
+3036-PCT,Sealer & for Knots,Exterior,Sealer,3.99,65,5,Solvent,25
+3061-DOI,Primer & Bonding & Solvent Based,Interior,Primer,5.59,100,15,Solvent,33
+3079-DEG,Primer & Zinc Rich & Inorganic,Exterior,Primer,8.99,28,25,Solvent,35
+3161-XJS,Latex & Recycled (Remanufactured) & Exterior Flat (G1),Exterior,Top Coat,38.99,61,5,Water,29
+3215-VIP,Top-Coat for Multicolored Coating & Clear,Interior,Top Coat,35.99,44,20,Solvent,35
+3258-RVB,Polyurethane & Moisture Cured & Pigmented & Semi-Gloss (MPI Gloss Level 5),Interior,Top Coat,16.99,142,40,Solvent,33
+3274-XJX,Paste & Wood Filler,Interior,Filler,3.99,37,35,Solvent,25
+3298-YFL,Primer & Zinc Rich & Moisture Cured,Interior,Primer,13.99,112,5,Solvent,30
+3343-DJU,Epoxy & Gloss,Exterior,Top Coat,7.79,56,25,Solvent,25
+3384-DML,Cleaner & Etching & for Galvanized Metal,Interior,Cleaner,4.59,78,30,Water,29
+3393-AZQ,Top-Coat for Multicolored Coating & Clear,Exterior,Top Coat,35.99,132,5,Water,25
+3488-GSE,Latex & Exterior Semi-Gloss (MPI Gloss Level 5),Exterior,Top Coat,10.99,127,30,Water,30
+3503-FGI,Primer & Bonding & Solvent Based,Exterior,Primer,5.59,87,25,Solvent,33
+3516-AGJ,Varnish & Exterior & Water Based & (Flat) MPI Gloss Level 1,Exterior,Top Coat,12.59,7,15,Water,35
+3528-GBV,Primer & Metal & Surface Tolerant,Exterior,Primer,7.49,34,35,Solvent,31
+3561-LYU,Lacquer & Sanding Sealer & White,Exterior,Sealer,3.29,70,40,Solvent,25
+3585-MCJ,Linseed Oil & Boiled,Interior,Cleaner,12.99,129,15,Solvent,27
+3594-BYW,Primer Sealer & Alkyd & Interior,Interior,Primer,7.39,80,15,Solvent,27
+3610-RKR,Traffic Marking Paint & Latex,Exterior,Top Coat,18.59,123,10,Water,27
+3614-PTT,Latex & Exterior (MPI Gloss Level 2),Exterior,Top Coat,45.99,21,5,Water,25
+3694-XFJ,Epoxy-Modified Latex & Interior & Semi-Gloss (MPI Gloss Level 5),Interior,Top Coat,54.89,39,25,Water,27
+3701-YAW,Sealer & Solvent Based & for Concrete Floors,Interior,Sealer,20.59,109,15,Solvent,30
+3716-IWN,Epoxy & Quick Set & Mason,Exterior,Sealer,14.99,75,20,Solvent,28
+3716-WZD,Acrylic Coating & High Build & for Pavement Marking,Interior,Top Coat,36.99,132,10,Solvent,23
+3734-CUQ,Primer & Galvanized Metal & Cementitious,Exterior,Primer,14.89,119,10,Solvent,31
+3754-MAK,Floor Paint & Latex & Low Gloss ,Exterior,Top Coat,21.99,70,10,Water,33
+3933-NSU,Latex & Recycled (Remanufactured) & Interior (MPI Gloss Level 3),Interior,Top Coat,41.99,105,10,Water,33
+3943-HFA,Shellac,Exterior,Top Coat,11.99,16,35,Solvent,27
+3955-NWD,Water Repellant & Clear (Not Paintable),Interior,Top Coat,23.99,130,15,Water,30
+4045-HUC,Primer & Stain Blocking & Water Based,Interior,Primer,29.99,100,10,Water,30
+4072-SWV,Sealer & Solvent Based & for Concrete Floors,Exterior,Sealer,20.59,86,10,Solvent,23
+4132-QIN,Primer & Oil for Exterior Wood,Exterior,Primer,9.29,111,20,Solvent,28
+4153-VMO,Varnish & Polyurethane & Moisture Cured & Gloss (MPI Gloss Level 6),Interior,Top Coat,17.79,30,25,Solvent,33
+4200-FTI,Varnish & Water Based & Clear & Satin,Interior,Top Coat,14.59,7,5,Water,30
+4241-UOF,Varnish & Polyurethane & Moisture Cured & Flat (MPI Gloss Level 1),Exterior,Top Coat,13.59,49,40,Solvent,27
+4260-FGB,Light Industrial Coating & Interior & Water Based ('eggshell-like' - MPI Gloss Level 3) ,Interior,Top Coat,15.59,97,40,Water,35
+4346-GCP,Primer Sealer & Interior & Institutional Low Odor/VOC,Interior,Primer,18.59,68,5,Water,27
+4431-LGU,Stain & for Exterior Wood Decks,Interior,Top Coat,11.49,122,20,Solvent,33
+4465-QHD,Multicolor Coating,Interior,Top Coat,23.59,3,5,Water,29
+4481-SGY,Primer & Galvanized & Non-Cementitious,Interior,Primer,15.69,90,10,Solvent,27
+4491-GNC,Alkyd & Exterior & Semi-Gloss (MPI Gloss Level 5),Exterior,Top Coat,21.99,132,25,Solvent,28
+4518-GHU,Elastomeric & Pigmented & Exterior & Water Based & Flat,Exterior,Top Coat,21.99,36,35,Water,31
+4583-VCR,Latex & Interior & High Performance Architectural & Semi-Gloss (MPI Gloss Level 5),Interior,Top Coat,34.49,42,30,Water,28
+4626-LJU,Block Filler & Epoxy,Interior,Filler,7.79,82,35,Solvent,28
+4667-JLN,Danish Oil,Interior,Cleaner,3.49,79,15,Solvent,35
+4784-SLU,Lacquer & Clear & Flat,Interior,Top Coat,14.99,14,15,Solvent,30
+4812-CMJ,Primer & Alkali Resistant & Water Based,Interior,Primer,9.99,128,10,Water,27
+4812-VNN,Varnish & Exterior & Water Based & (Velvet-Like) MPI Gloss Level 2,Exterior,Top Coat,12.99,42,40,Water,27
+4846-BHT,Preservative & for Exterior Wood,Exterior,Top Coat,4.49,88,40,Solvent,33
+4879-AMS,Latex & Recycled (Remanufactured) & Interior (MPI Gloss Level 1),Interior,Top Coat,41.99,107,20,Water,31
+4900-YSQ,Cleaner & Etching & for Galvanized Metal,Exterior,Cleaner,4.59,121,20,Water,28
+4912-YXS,Varnish & Exterior & Water Based & (Eggshell-like) MPI Gloss Level 3,Exterior,Top Coat,12.99,123,30,Water,35
+4949-VFI,Undercoat & Enamel & Interior,Interior,Primer,8.49,20,20,Solvent,23
+4976-PZN,Primer & Latex & for Interior Wood,Interior,Primer,13.69,33,20,Water,33
+4987-BFL,Latex & Interior & Institutional Low Odor/VOC & Semi-Gloss (MPI Gloss Level 5),Interior,Top Coat,29.99,63,30,Water,27
+5046-TTC,Aluminum Paint & Heat Resistant (Up to 427 Degrees C - 800 Degrees F),Exterior,Top Coat,18.99,129,30,Solvent,35
+5060-EDB,Latex & Interior & Institutional Low Odor/VOC & ('eggshell-like' - MPI Gloss Level 3) ,Interior,Top Coat,29.99,121,40,Water,23
+5140-RTG,Fire Resistant Sealer & for Exterior Wood (ULC Approved),Exterior,Sealer,19.99,107,40,Solvent,35
+5155-YQL,Latex & Recycled (Remanufactured) & Interior (MPI Gloss Level 2),Interior,Top Coat,38.99,105,25,Water,25
+5161-GIZ,Lacquer & Sanding Sealer & Clear,Exterior,Sealer,13.99,17,30,Solvent,31
+5213-YTB,Latex & Interior & High Performance Architectural & ('velvet-like' - MPI Gloss Level 2),Interior,Top Coat,34.49,15,35,Water,31
+5220-JDO,Acrylic Coating & High Build & for Pavement Marking,Exterior,Top Coat,36.99,109,10,Solvent,29
+5250-JDL,Primer & Zinc Rich & Moisture Cured,Exterior,Primer,13.99,96,40,Solvent,27
+5290-HTG,Epoxy-Modified Latex & Interior & Gloss (MPI Gloss Level 6),Interior,Top Coat,21.59,119,25,Water,27
+5379-BLX,Dry Fall & Water Based & for Galvanized Steel & MPI Gloss Level 3,Interior,Top Coat,21.59,119,35,Water,28
+5413-TTF,Latex & Interior & Institutional Low Odor/VOC & Flat (MPI Gloss Level 1),Interior,Top Coat,29.99,71,5,Water,27
+5437-WBO,Fire Retardant Sealer & Alkyd & Interior (ULC Approved),Interior,Top Coat,28.99,26,30,Solvent,35
+5445-XOY,Primer & Alkyd & Anti-Corrosive for Metal,Exterior,Primer,10.99,66,25,Solvent,31
+5465-YYG,Latex & Interior & Flat (MPI Gloss Level 1),Interior,Top Coat,8.99,115,30,Water,29
+5496-MRA,Bituminous Coating,Exterior,Top Coat,28.49,79,10,Solvent,29
+5508-OUB,Fire Retardant Coating & Alkyd & Interior & Flat (ULC Approved),Interior,Top Coat,35.99,56,35,Solvent,29
+5516-FYH,Floor Paint & Latex & Gloss ,Exterior,Top Coat,21.99,82,15,Water,27
+5529-SBL,Water Repellent & Clear (Paintable),Exterior,Top Coat,15.59,32,25,Solvent,30
+5541-HST,Fire Retardant Coating & Interior & Clear (ULC Approved),Interior,Top Coat,32.99,31,15,Water,35
+5587-MNY,Latex & Interior & ('velvet-like' - MPI Gloss Level 2),Interior,Top Coat,14.69,14,20,Water,31
+5587-PIP,Primer Sealer & Latex & Interior,Interior,Primer,10.99,38,5,Water,25
+5595-NYE,Dry Fall & Water Based & for Galvanized Steel & Flat (MPI Gloss Level 1),Interior,Top Coat,23.99,24,25,Water,30
+5602-QBF,Polyurethane & Two-Component & Pigmented & Gloss (MPI Gloss Level 6),Exterior,Top Coat,4.29,13,40,Solvent,30
+5625-FVF,Alkyd & Interior & Flat (MPI Gloss Level 1) ,Interior,Top Coat,12.99,125,15,Solvent,30
+5642-IDA,Latex & Interior & Institutional Low Odor/VOC & Gloss (MPI Gloss Level 6),Interior,Top Coat,29.99,39,10,Water,35
+5653-RTU,Aluminum Paint,Interior,Top Coat,12.99,87,15,Solvent,23
+5659-BFS,Elastomeric Coating & Exterior & Water Based & Non-Flat,Exterior,Top Coat,17.29,100,35,Water,35
+5728-ZPO,Shop Coat & Quick Dry & for Interior Steel,Interior,Sealer,15.59,19,20,Solvent,27
+5734-BGX,Polyurethane & Moisture Cured & Pigmented & Gloss (MPI Gloss Level 6),Interior,Top Coat,16.99,54,35,Solvent,30
+5781-TKY,Epoxy & High Build & Low Gloss,Exterior,Top Coat,13.59,81,35,Solvent,29
+5794-JGQ,Varnish & with UV Inhibitor & Exterior & Gloss (MPI Gloss Level 6),Exterior,Top Coat,15.89,15,25,Solvent,28
+5980-BME,Primer & Alkali Resistant & Solvent Based,Exterior,Primer,31.99,23,30,Solvent,25
+6033-YFY,Primer & Stain Blocking & Water Based,Exterior,Primer,29.99,140,20,Water,28
+6041-PBS,Primer & Metal & Surface Tolerant,Interior,Primer,7.49,53,30,Solvent,25
+6109-ZZO,Deck Coating & Latex & Exterior,Exterior,Top Coat,32.89,63,40,Water,23
+6116-NQU,Dry Fall & Alkyd & Semi-Gloss (MPI Gloss Level 5),Interior,Top Coat,21.99,15,35,Solvent,27
+6176-XTX,Varnish & Interior & Gloss,Interior,Top Coat,15.59,117,30,Solvent,33
+6249-LYB,Textured Coating & Latex & Flat,Exterior,Top Coat,11.99,132,15,Water,27
+6249-NDN,Epoxy Deck Coating (Slip-Resistant),Exterior,Top Coat,22.59,131,30,Solvent,30
+6257-AGA,Fire Retardant Top-Coat & Latex & Interior (ULC Approved),Interior,Top Coat,29.99,127,30,Water,27
+6350-UPP,Block Filler & Latex & Interior/Exterior,Exterior,Filler,12.49,119,5,Water,25
+6358-UST,Traffic Marking Paint & Latex,Interior,Top Coat,18.59,102,40,Water,33
+6367-AKJ,Latex & Recycled (Consolidated) & Exterior Flat (G1),Exterior,Top Coat,41.99,103,20,Water,23
+6451-KGJ,Primer & Latex for Exterior Wood,Exterior,Primer,6.99,117,30,Water,35
+6488-MIG,Latex & Recycled (Consolidated) & Interior (MPI Gloss Level 2),Interior,Top Coat,43.99,34,15,Water,30
+6491-XKF,Fire Retardant Coating & Interior & Clear (ULC Approved),Interior,Top Coat,32.99,27,25,Solvent,29
+6596-HOO,Primer & Alkali Resistant & Water Based,Exterior,Primer,9.99,93,5,Water,35
+6626-ROK,Epoxy & High Build & Gloss,Exterior,Top Coat,13.59,10,10,Solvent,29
+6651-ICK,Stain & Exterior & Solvent Based & Semi-Transparent,Exterior,Top Coat,11.99,141,30,Solvent,33
+6858-EJW,Alkyd & Exterior Gloss (MPI Gloss Level 6),Exterior,Top Coat,10.99,144,40,Solvent,30
+6865-HAO,Primer & Epoxy & Water Based & Anti-Corrosive & for Metal,Interior,Primer,38.99,127,25,Water,29
+6894-JQV,Latex & Recycled (Consolidated) & Interior (MPI Gloss Level 1),Interior,Top Coat,48.59,35,5,Water,27
+6925-KDN,Floor Enamel & Alkyd & Gloss (MPI Gloss Level 6),Exterior,Top Coat,11.59,69,10,Solvent,30
+6933-YOI,Block Filler & Latex & Interior/Exterior,Interior,Filler,8.99,34,15,Water,29
+7006-IXN,Polyurethane & Moisture Cured & Pigmented & Intermediate Coat,Exterior,Top Coat,14.99,53,35,Solvent,29
+7158-LJP,Textured Coating & Latex & Flat,Interior,Top Coat,11.99,39,5,Water,33
+7179-YXG,Stain & Exterior & Water Based & Semi-Transparent,Exterior,Primer,12.99,131,10,Water,31
+7224-FEU,Latex & Recycled (Consolidated) & Exterior & Low Sheen (G 3-4),Exterior,Top Coat,43.99,94,35,Water,27
+7231-UES,Stain & Interior & for Concrete Floors,Interior,Top Coat,23.99,50,10,Solvent,30
+7258-HCV,Primer & Alkyd & Anti-Corrosive for Metal,Interior,Primer,10.99,30,35,Solvent,35
+7260-YDI,Light Industrial Coating & Interior & Water Based & Semi-Gloss (MPI Gloss Level 5),Interior,Top Coat,15.59,25,20,Water,35
+7316-MQD,Aluminum Paint,Exterior,Top Coat,12.99,36,30,Solvent,33
+7355-WBT,Primer & Galvanized & Water Based,Interior,Primer,13.59,62,30,Water,31
+7500-ROG,Heat Resistant Coating & (Up to 205 Degrees C/402 Degrees F) & MPI Gloss Level 5-6 ,Interior,Top Coat,23.99,53,5,Solvent,30
+7532-PYJ,Floor Paint & Latex & Gloss ,Interior,Top Coat,21.99,76,40,Water,25
+7538-ITC,Primer & Zinc Rich & Inorganic,Interior,Primer,8.99,95,25,Solvent,33
+7551-ZVS,Primer & Epoxy & Anti-Corrosive & for Metal,Exterior,Primer,14.99,15,10,Solvent,31
+7627-HHI,Floor Enamel & Alkyd & Gloss (MPI Gloss Level 6),Interior,Top Coat,11.59,128,40,Solvent,28
+7658-HCW,Latex & Interior & Gloss (MPI GLoss Level 6),Interior,Top Coat,19.99,15,25,Water,27
+7673-ECV,Stain & Exterior & Solvent Based & Solid Hide,Exterior,Top Coat,11.99,122,15,Solvent,25
+7731-GBG,Varnish & Exterior & Water Based & (Semi-Gloss) MPI Gloss Level 5,Exterior,Top Coat,13.39,109,35,Water,35
+7762-STV,Lacquer & Clear & Satin,Interior,Top Coat,14.99,56,35,Solvent,29
+7804-ZVW,Water Repellent & Clear (Paintable),Interior,Top Coat,15.59,57,15,Solvent,35
+7883-NLQ,Primer & Rust-Inhibitive & Water Based,Interior,Primer,12.59,29,25,Water,23
+8053-PME,Polyurethane Deck Coating (Slip-Resistant),Interior,Top Coat,25.99,28,25,Solvent,25
+8094-EYX,Lacquer & Pigmented & Satin,Interior,Top Coat,14.59,50,40,Solvent,27
+8162-KJI,Primer & Zinc Rich & Epoxy,Exterior,Primer,9.49,73,10,Solvent,31
+8170-EKF,Polyurethane & Moisture Cured & Pigmented & Gloss (MPI Gloss Level 6),Exterior,Top Coat,16.99,73,5,Solvent,35
+8199-YRF,Varnish & Exterior & Water Based & (Satin-Like) MPI Gloss Level 4,Exterior,Top Coat,12.99,105,10,Water,33
+8207-YYG,Latex & Interior & High Performance Architectural & ('satin-like' - MPI Gloss Level 4),Interior,Top Coat,34.49,14,15,Water,35
+8310-LAC,Textured Coating & Latex & Non-Flat,Exterior,Top Coat,11.99,51,15,Water,31
+8322-JEX,Preservative Oil & Gloss,Interior,Cleaner,12.99,50,25,Solvent,25
+8338-JZU,Alkyd & Quick Dry & Gloss,Exterior,Top Coat,17.99,118,40,Solvent,28
+8382-HKN,Textured Coating & Latex & Non-Flat,Interior,Top Coat,11.99,20,5,Water,30
+8400-JDC,Lacquer & Clear & Gloss,Interior,Top Coat,14.99,49,25,Solvent,31
+8406-TQG,Primer & Bonding & Water Based,Interior,Primer,7.99,119,15,Water,33
+8436-MGP,Block Filler & Epoxy,Exterior,Filler,7.79,84,10,Solvent,28
+8439-KUP,Vinyl & High Build,Exterior,Top Coat,17.99,76,5,Solvent,33
+8495-ZQR,Varnish & Aliphatic Polyurethane & Two-Component,Exterior,Top Coat,12.29,111,40,Solvent,23
+8523-UCB,Alkyd & Quick Dry & Semi-Gloss,Exterior,Top Coat,21.59,139,10,Solvent,30
+8543-RJN,Floor Paint & Alkyd & Low Gloss ,Interior,Top Coat,21.99,10,5,Solvent,31
+8544-CIQ,Traffic Marking Paint & Alkyd,Interior,Top Coat,6.59,16,25,Solvent,35
+8571-CKP,Varnish & Polyurethane & Moisture Cured & Gloss (MPI Gloss Level 6),Exterior,Top Coat,17.79,46,5,Solvent,28
+8685-REM,Primer & Quick Dry & for Aluminum,Exterior,Primer,19.99,66,25,Solvent,30
+8726-ZNM,Floor Paint & Alkyd & Low Gloss ,Exterior,Top Coat,21.99,107,15,Solvent,29
+8751-IOK,Epoxy & Gloss,Interior,Top Coat,7.79,19,10,Solvent,25
+8821-DDM,Barrier Coating & Two Coat & Low VOC for Industrial Maintenance,Exterior,Top Coat,34.99,103,40,Water,35
+8841-JFP,Varnish & Interior & Polyurethane & Oil Modified & Satin,Interior,Top Coat,6.59,30,35,Solvent,25
+8894-LUR,Lacquer & Sanding Sealer & Clear,Interior,Sealer,13.99,79,40,Solvent,27
+8909-SPD,Varnish & Water Based & Clear & Gloss,Interior,Top Coat,15.79,36,30,Water,28
+8937-WVA,Lacquer & Sanding Sealer & White,Interior,Sealer,3.29,12,30,Solvent,28
+8988-FDW,Primer & Alkyd & Quick Dry & for Metal,Exterior,Primer,11.99,110,30,Solvent,28
+9064-IWN,Primer & Vinyl Wash,Exterior,Primer,7.59,15,5,Solvent,33
+9126-PWF,Latex & Recycled (Consolidated) & Interior (MPI Gloss Level 3),Interior,Top Coat,48.59,12,30,Water,27
+9133-OXA,Primer & Quick Dry & for Aluminum,Interior,Primer,19.99,89,20,Solvent,30
+9138-QCV,Alkyd & Quick Dry & Semi-Gloss,Interior,Top Coat,21.59,107,15,Solvent,28
+9175-TAZ,Epoxy & High Build & Gloss,Interior,Top Coat,13.59,15,40,Solvent,27
+9191-NGA,Alkyd & Interior & Gloss (MPI Gloss Level 6) ,Interior,Top Coat,14.99,88,35,Solvent,29
+9234-WCQ,Stain & Exterior & Water Based & Solid Hide,Exterior,Top Coat,13.99,135,35,Water,35
+9268-RCB,Alkyd & Interior & Semi-Gloss (MPI Gloss Level 5) ,Interior,Top Coat,13.99,64,25,Solvent,25
+9272-LTP,Varnish & Marine Spar & Exterior & Gloss (MPI Gloss Level 6),Exterior,Top Coat,13.29,87,35,Solvent,27
+9276-MVX,Varnish & Exterior & Water Based & (High Gloss) MPI Gloss Level 7,Exterior,Top Coat,13.39,83,30,Water,28
+9288-IRF,Varnish & Water Based & Clear (eggshell-like) MPI Gloss Level 3,Interior,Top Coat,14.59,118,15,Water,25
+9292-RQZ,Aluminum Paint & High Heat (up to 590 Degrees  C/1100 Degrees  F),Interior,Top Coat,32.99,24,10,Solvent,28
+9324-PPG,Primer & Zinc Rich & Organic,Interior,Primer,11.99,5,30,Solvent,27
+9336-MHC,Latex & Interior & ('eggshell-like' - MPI Gloss Level 3) ,Interior,Top Coat,11.99,52,40,Water,29
+9355-MNT,Epoxy & High Build & Self Priming & Low Gloss,Interior,Top Coat,29.99,73,35,Solvent,23
+9393-RFA,Varnish & Polyurethane & Moisture Cured & Flat (MPI Gloss Level 1),Interior,Top Coat,13.59,51,25,Solvent,30
+9408-WNM,Fire Retardant Top-Coat & Exterior & Low Sheen (ULC Approved),Exterior,Top Coat,21.99,86,15,Solvent,30
+9413-EHI,Varnish & Aliphatic Polyurethane & Two-Component,Interior,Top Coat,12.29,101,5,Solvent,33
+9484-UTK,Varnish & Fire Retardant (ULC Approved) & Exterior,Exterior,Top Coat,17.99,129,20,Solvent,30
+9569-WMK,Epoxy & High Build & Low Gloss,Interior,Top Coat,13.59,65,15,Solvent,29
+9601-ZKZ,Primer & Alkyd for Exterior Wood,Exterior,Primer,8.99,92,35,Solvent,25
+9624-YLU,Primer & Zinc Rich & Organic,Exterior,Primer,11.99,77,20,Solvent,33
+9671-NYZ,Lacquer & Pigmented & Gloss,Interior,Top Coat,14.59,51,5,Solvent,30
+9686-HQV,Varnish & Water Based & Clear & Semi-Gloss,Interior,Top Coat,15.29,73,25,Water,35
+9688-ZUX,Linseed Oil & Boiled,Exterior,Cleaner,12.99,67,15,Solvent,30
+9702-WFX,Primer & Quick Dry & for Shop Application to Interior Steel,Interior,Primer,35.49,134,5,Solvent,35
+9786-DGO,Primer & Zinc Rich & Epoxy,Interior,Primer,9.99,85,40,Solvent,25
+9838-FUF,Fire Retardant Top-Coat & Clear & Alkyd & Interior (ULC Approved),Interior,Top Coat,29.99,137,25,Solvent,27
+9857-ESX,Alkyd & Water Based & Gloss (MPI Gloss Level 6),Interior,Top Coat,25.59,58,20,Water,28
+9858-XUM,Lacquer & Pigmented & Semi-Gloss,Interior,Top Coat,14.59,72,35,Solvent,29
+9955-WWB,Latex & Interior & Institutional Low Odor/VOC & ('velvet-like' - MPI Gloss Level 2) ,Interior,Top Coat,29.99,129,35,Water,30
